@@ -3,5 +3,14 @@
 
 For Supervised Learning:
 PDF shows the solution for both calculating by hand and by python
-Google slides link:
+Google Slides Link:
 https://docs.google.com/presentation/d/1DTPhoQmnnMU-Rmg_Y4L9WMiFe8bwt7uVgMgfLnMm40o/edit?usp=sharing
+
+
+For Unsupervised Learning:
+Google Slides Link:
+https://docs.google.com/presentation/d/1mmqf77ZqsLnVHQdnopwN3QTFXMvPe1YGu_JZ1FyQZmE/edit?usp=sharing
+
+
+For Model Selection:
+Google Slides Link:
