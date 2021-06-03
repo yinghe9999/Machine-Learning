@@ -14,3 +14,4 @@ https://docs.google.com/presentation/d/1mmqf77ZqsLnVHQdnopwN3QTFXMvPe1YGu_JZ1FyQ
 
 For Model Selection:
 Google Slides Link:
+https://docs.google.com/presentation/d/1riy-kBLNteD6goyh5ooQzrL0pIs4i5trzqptqk2C49Q/edit?usp=sharing
